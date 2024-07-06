@@ -43,7 +43,19 @@ This project is simple a clone of the Mortal Kombat game, developed as part of m
     <p><em>Shooting and game winner</em></p>
 </div>
 
-## Save and Load Game Examples
+## Combos Examples
+
+<div style="text-align: center;">
+    <img src="Images/e.png" alt="Save and Load Example 1" width="400"/>
+    <p><em>Saving the game after defining the board</em></p>
+</div>
+
+<div style="text-align: center;">
+    <img src="Images/f.png" alt="Save and Load Example 2" width="400"/>
+    <p><em>Loading the game saved earlier</em></p>
+</div>
+
+## Cheat Codes Examples
 
 <div style="text-align: center;">
     <img src="Images/e.png" alt="Save and Load Example 1" width="400"/>
