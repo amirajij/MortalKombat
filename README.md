@@ -34,37 +34,27 @@ This project is simple a clone of the Mortal Kombat game, developed as part of m
 ## Game Examples
 
 <div style="text-align: center;">
-    <img src="Images/a.png" alt="Game Example 1" width="400"/>
-    <p><em>Definition of the board</em></p>
+    <img src="images/a.png" alt="Game Example 1" width="400"/>
+    <p><em>Game with simple attacks</em></p>
 </div>
 
 <div style="text-align: center;">
-    <img src="Images/b.png" alt="Game Example 2" width="400"/>
-    <p><em>Shooting and game winner</em></p>
+    <img src="images/b.png" alt="Game Example 2" width="400"/>
+    <p><em>Game with 'rest' attack</em></p>
 </div>
 
 ## Combos Examples
 
 <div style="text-align: center;">
-    <img src="Images/e.png" alt="Save and Load Example 1" width="400"/>
-    <p><em>Saving the game after defining the board</em></p>
-</div>
-
-<div style="text-align: center;">
-    <img src="Images/f.png" alt="Save and Load Example 2" width="400"/>
-    <p><em>Loading the game saved earlier</em></p>
+    <img src="images/c.png" alt="Save and Load Example 1" width="400"/>
+    <p><em>Game with combos</em></p>
 </div>
 
 ## Cheat Codes Examples
 
 <div style="text-align: center;">
-    <img src="Images/e.png" alt="Save and Load Example 1" width="400"/>
-    <p><em>Saving the game after defining the board</em></p>
-</div>
-
-<div style="text-align: center;">
-    <img src="Images/f.png" alt="Save and Load Example 2" width="400"/>
-    <p><em>Loading the game saved earlier</em></p>
+    <img src="images/d.png" alt="Save and Load Example 1" width="400"/>
+    <p><em>Game with some cheat-codes</em></p>
 </div>
 
 ## Author
